@@ -14,11 +14,11 @@
 		<?php echo display_error(); ?>
 
 		<div class="input-group">
-			<label>Username:</label>
+			<label>Your Username:</label>
 			<input type="text" name="username" >
 		</div>
 		<div class="input-group">
-			<label>Password:</label>
+			<label>Your Password:</label>
 			<input type="password" name="password" pattern=".{4,8}" placeholder=" Password Must Be 4 Characters" >
 		</div>
 		<div class="input-group">
